@@ -4,7 +4,7 @@
 
 # 网络空间资产测绘工具
 
-![Release](https://img.shields.io/badge/RELEASE-V1.0-e74c3c?style=flat-square)
+![Release](https://img.shields.io/badge/RELEASE-V2.0-e74c3c?style=flat-square)
 ![Language](https://img.shields.io/badge/LANGUAGE-PYTHON_3-3498db?style=flat-square&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/PLATFORM-WINDOWS-2ecc71?style=flat-square&logo=windows&logoColor=white)
 ![Focus](https://img.shields.io/badge/FOCUS-ASSET_MAPPING-f39c12?style=flat-square)
